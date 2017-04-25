@@ -1,5 +1,5 @@
 # B-Program Application
-"All About Code"
+"All About Coding"
 
 Version 1.0 - Rabu 26 April 2017
 
